@@ -11,6 +11,7 @@ Projects that aim to create efficient and effective web-based solutions, particu
 
 📫 How to reach me
 - Email: galihnrallmn@gmail.com
+- Instagram: galihnrallmn
 - Phone: +6281398076004
 - Location: Pelaihari, Tanah Laut, Kalimantan Selatan
 
