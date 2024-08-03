@@ -10,7 +10,7 @@ Advanced web development techniques, focusing on enhancing my skills with PHP fr
 Projects that aim to create efficient and effective web-based solutions, particularly those that involve health information systems, investment websites, and data information systems.
 
 📫 How to reach me
-- Email: galihnrallmn@gmail.com
+- Email: [Click here to email me](mailto:galihnrallmn@gmail.com)
 - WhatsApp: [Click here to contact me on WhatsApp](https://wa.me/6281398076004)
 - Instagram: [Click here to visit my Instagram profile](https://www.instagram.com/galihnrallmn)
 
