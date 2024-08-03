@@ -13,6 +13,7 @@ Projects that aim to create efficient and effective web-based solutions, particu
 - Email: galihnrallmn@gmail.com
 - Phone: +6281398076004
 - Location: Pelaihari, Tanah Laut, Kalimantan Selatan
+
 😄 Pronouns
 He/Him
 
