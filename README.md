@@ -15,6 +15,7 @@ Projects that aim to create efficient and effective web-based solutions, particu
 - Location: Pelaihari, Tanah Laut, Kalimantan Selatan
 
 ⚡ Fun fact
+
 I led a team that developed a website-based information system for a health center, which won an award in the national level Program Kreativitas Mahasiswa (PKM) in the Scientific Article (AI) category.
 
 <!---
