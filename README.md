@@ -13,9 +13,8 @@ Projects that aim to create efficient and effective web-based solutions, particu
 - Email: galihnrallmn@gmail.com
 - Instagram: galihnrallmn
 - Phone: +6281398076004
-- WhatsApp: Klik di sini untuk menghubungi saya di WhatsApp
-- Instagram: [Klik di sini untuk mengunjungi profil Instagram saya](https://www.instagram.com/galihnrallmn
-)
+- WhatsApp: [Click here to contact me on WhatsApp](https://wa.me/6281398076004)
+- Instagram: [Click here to visit my Instagram profile](https://www.instagram.com/galihnrallmn)
 
 ⚡ Fun fact,
 I led a team that developed a website-based information system for a health center, which won an award in the national level Program Kreativitas Mahasiswa (PKM) in the Scientific Article (AI) category.
