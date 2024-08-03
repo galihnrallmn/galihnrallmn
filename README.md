@@ -1,4 +1,5 @@
 👋 Hi, I’m @galihnrallmn
+
 👀 I’m interested in
 Web development, specifically in creating responsive and user-friendly interfaces using PHP, HTML, CSS, JavaScript, and the CodeIgniter framework. I am also passionate about improving access to information through innovative web solutions.
 
@@ -9,9 +10,9 @@ Advanced web development techniques, focusing on enhancing my skills with PHP fr
 Projects that aim to create efficient and effective web-based solutions, particularly those that involve health information systems, investment websites, and data information systems.
 
 📫 How to reach me
-Email: galihnrallmn@gmail.com
-Phone: +6281398076004
-Location: Pelaihari, Tanah Laut, Kalimantan Selatan
+- Email: galihnrallmn@gmail.com
+- Phone: +6281398076004
+- Location: Pelaihari, Tanah Laut, Kalimantan Selatan
 😄 Pronouns
 He/Him
 
